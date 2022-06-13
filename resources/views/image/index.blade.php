@@ -1,4 +1,5 @@
 <h1>All images</h1>
+<p><strong>Published </strong> </p>
 
 <a href="{{ route('images.create') }}">Upload Image</a>
 <a href="{{ route('images.unpublished') }}">Unpublished Images</a>
